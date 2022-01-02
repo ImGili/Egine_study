@@ -12,5 +12,5 @@ add_executable(${PROJECT_NAME}
                                 )
 
 target_include_directories(${PROJECT_NAME} PUBLIC
-                           ${Egine_study_SOURCE_DIR}/eigen-3.4.0/ 
+                           ${eigen_study_SOURCE_DIR}/eigen-3.4.0/ 
              )

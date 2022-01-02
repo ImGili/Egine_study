@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
-project(Egine_study)
+project(eigen_study)
 
 add_subdirectory(my_test/Quick_start)
 
